@@ -1,1 +1,11 @@
 This is a sample file o created on Jul 29
+
+
+after any modification
+
+git add filename
+git commit -m "Message"
+git push origin main
+
+after check if it everything took place correctly with 
+git status
